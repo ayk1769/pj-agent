@@ -43,3 +43,8 @@ htmlcov/
 # OS固有
 .DS_Store
 Thumbs.db
+
+# セットアップスクリプト
+*.sh
+README_GITHUB.md
+github_setup_guide.md
